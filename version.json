@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.4",
-                    "build":  6,
+                    "version":  "0.2.5",
+                    "build":  7,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "047145fb797705ef8959cd7d6401acc166042351758c4135ce17d677d1d33078",
-                    "notes":  "Android builds are now signed with a permanent key. If you installed an earlier Android version, uninstall it once and install this one."
+                    "sha256":  "50e0c40c4eaaa66f489315b708096e7ff8112e7ffb27c81a4b337433e26701d7",
+                    "notes":  "Settings pages work fully with a remote, colour sliders no longer trap the highlight, and setting a number code on a TV has room for the number pad."
                 },
     "android":  {
-                    "version":  "0.2.4",
-                    "build":  6,
+                    "version":  "0.2.5",
+                    "build":  7,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "567dcd7d6439248e6ae8d224247edfb088f680014bf33ad283207e31d068d669",
-                    "notes":  "Android builds are now signed with a permanent key. If you installed an earlier Android version, uninstall it once and install this one."
+                    "sha256":  "821b8188df1c613661e9269b385ca5a006042a8018fde4146655065a8cdfa495",
+                    "notes":  "Settings pages work fully with a remote, colour sliders no longer trap the highlight, and setting a number code on a TV has room for the number pad."
                 }
 }
