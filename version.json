@@ -1,9 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.1",
-                    "build":  3,
+                    "version":  "0.2.3",
+                    "build":  5,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "07f9bd18497dc896ff92d83abe7a7a0769b5ac3c0b9a8eca13f0c3aebb66686e",
-                    "notes":  "Remote control and TV improvements, a cleaner lock screen and profile chooser, and this update check."
+                    "sha256":  "8a414031f30c33ca37f85ffdc58ea5eb9d4a7eb49f953dbd03308d8dff516e3a",
+                    "notes":  "Android TV version and its update check, a white ring on highlighted buttons, and fixes for the remote."
+                },
+    "android":  {
+                    "version":  "0.2.3",
+                    "build":  5,
+                    "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
+                    "sha256":  "e8c05590e71cce964a320787ca49ae96ea6b7ff066f6699156e3a58e223b91ba",
+                    "notes":  "Android TV version and its update check, a white ring on highlighted buttons, and fixes for the remote."
                 }
 }

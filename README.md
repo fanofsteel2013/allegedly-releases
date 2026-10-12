@@ -17,6 +17,25 @@ Allegedly is not affiliated with or endorsed by Plex.
 Needs 64-bit Windows 10 or 11. Once installed, Allegedly offers newer
 versions by itself (Settings > Updates).
 
+## Android TV (Nvidia Shield, Fire TV and similar)
+
+There is no store listing yet, so the app is installed from a file
+("sideloaded"):
+
+1. On the TV box, allow apps from outside the store. On most boxes this is
+   under Settings > Security or Device Preferences > **Unknown sources**
+   (on Fire TV: Settings > My Fire TV > Developer options).
+2. Install a downloader app from the box's store, such as "Downloader".
+3. In it, open this address and install the file it downloads:
+   `https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk`
+4. Open Allegedly and sign in: it shows a short code to enter at
+   plex.tv/link on your phone.
+
+Needs Android 7 or newer. Once installed, Allegedly offers newer versions
+by itself; Android asks you to confirm each install.
+
+So far it has only been tried on an Nvidia Shield TV.
+
 This is an early test build. Expect rough edges.
 
 ## Third-party software

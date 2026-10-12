@@ -25,7 +25,7 @@ dependency.
 | window_manager (with screen_retriever) | 0.5.2 / 0.2.2 | MIT | app (full screen) | <https://pub.dev/packages/window_manager> |
 | crypto | 3.x | BSD-3-Clause | allegedly_core (PIN hashing) | <https://pub.dev/packages/crypto> |
 | media_kit, media_kit_video | 1.2.6 / 2.0.1 | MIT | allegedly_player | <https://pub.dev/packages/media_kit> |
-| media_kit_libs_android_video (prebuilt libmpv + FFmpeg for Android, fetched at build time) | 1.3.8 | Wrapper MIT; **the bundled Android libmpv build's licence is NOT yet verified** (check before sharing an Android build beyond the owner's own devices) | allegedly_player (Android) | <https://pub.dev/packages/media_kit_libs_android_video> |
+| media_kit_libs_android_video (prebuilt libmpv + FFmpeg for Android, fetched at build time) | 1.3.8 | Wrapper MIT. Bundled `libmpv.so` (v1.1.7 from <https://github.com/media-kit/libmpv-android-video-build>): mpv built with `-Dgpl=false`, FFmpeg with `--disable-gpl --enable-version3`, so **LGPL version 3 or later** (read from the build strings inside the library, 2026-10-12) | allegedly_player (Android) | <https://pub.dev/packages/media_kit_libs_android_video> |
 | media_kit_libs_windows_video (prebuilt libmpv + FFmpeg DLLs fetched at build time) | 1.0.11 | Wrapper MIT. Bundled `libmpv-2.dll` (archive `mpv-dev-x86_64-20230924-git-652a1dd` from <https://github.com/media-kit/libmpv-win32-video-build>): mpv built with `-Dgpl=false`, FFmpeg with `--disable-gpl --enable-version3`, so **LGPL version 3 or later** (read from the build strings inside the DLL, 2026-10-10) | allegedly_player (Windows) | <https://pub.dev/packages/media_kit_libs_windows_video> |
 
 **libmpv/FFmpeg (LGPL-3.0-or-later):** the library ships as a separate DLL
