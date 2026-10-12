@@ -31,9 +31,10 @@ There is no store listing yet, so the app is installed from a file
    for Shield, Google TV and Android TV, and
    [the maker's site](https://www.aftvnews.com/downloader/), which also
    covers Fire TV.
-3. In Downloader's address box, enter this address and install the file it
-   downloads:
-   `https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk`
+3. In Downloader's address box, enter the code **9392193** and press Go,
+   then install the file it downloads. (The code is a shortcut for this
+   address, which works too:
+   `https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk`)
 4. Open Allegedly and sign in: it shows a short code to enter at
    plex.tv/link on your phone.
 
