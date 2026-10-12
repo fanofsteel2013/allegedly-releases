@@ -1,0 +1,9 @@
+{
+    "windows":  {
+                    "version":  "0.2.1",
+                    "build":  3,
+                    "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
+                    "sha256":  "07f9bd18497dc896ff92d83abe7a7a0769b5ac3c0b9a8eca13f0c3aebb66686e",
+                    "notes":  "Remote control and TV improvements, a cleaner lock screen and profile chooser, and this update check."
+                }
+}
