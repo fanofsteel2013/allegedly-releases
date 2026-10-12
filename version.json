@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.5",
-                    "build":  7,
+                    "version":  "0.2.6",
+                    "build":  8,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "50e0c40c4eaaa66f489315b708096e7ff8112e7ffb27c81a4b337433e26701d7",
-                    "notes":  "Settings pages work fully with a remote, colour sliders no longer trap the highlight, and setting a number code on a TV has room for the number pad."
+                    "sha256":  "2f259fdc36fa8e3d1d8c7478d6318c22c87ffb2de1df88edffae2da76f74081a",
+                    "notes":  "Boxes such as this one keep the highlight; nothing behind them can take it."
                 },
     "android":  {
-                    "version":  "0.2.5",
-                    "build":  7,
+                    "version":  "0.2.6",
+                    "build":  8,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "821b8188df1c613661e9269b385ca5a006042a8018fde4146655065a8cdfa495",
-                    "notes":  "Settings pages work fully with a remote, colour sliders no longer trap the highlight, and setting a number code on a TV has room for the number pad."
+                    "sha256":  "2a75f52f613d224cd8dbf5c4c1502678c2cf04a00b82e87e10be7e30c417bfb7",
+                    "notes":  "Boxes such as this one keep the highlight; nothing behind them can take it."
                 }
 }
