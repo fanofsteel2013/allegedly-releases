@@ -25,8 +25,14 @@ There is no store listing yet, so the app is installed from a file
 1. On the TV box, allow apps from outside the store. On most boxes this is
    under Settings > Security or Device Preferences > **Unknown sources**
    (on Fire TV: Settings > My Fire TV > Developer options).
-2. Install a downloader app from the box's store, such as "Downloader".
-3. In it, open this address and install the file it downloads:
+2. Install the free **Downloader** app by AFTVnews from the box's own app
+   store (search for "Downloader"). Its pages:
+   [Google Play](https://play.google.com/store/apps/details?id=com.esaba.downloader)
+   for Shield, Google TV and Android TV, and
+   [the maker's site](https://www.aftvnews.com/downloader/), which also
+   covers Fire TV.
+3. In Downloader's address box, enter this address and install the file it
+   downloads:
    `https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk`
 4. Open Allegedly and sign in: it shows a short code to enter at
    plex.tv/link on your phone.
