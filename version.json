@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.3",
-                    "build":  5,
+                    "version":  "0.2.4",
+                    "build":  6,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "8a414031f30c33ca37f85ffdc58ea5eb9d4a7eb49f953dbd03308d8dff516e3a",
-                    "notes":  "Android TV version and its update check, a white ring on highlighted buttons, and fixes for the remote."
+                    "sha256":  "047145fb797705ef8959cd7d6401acc166042351758c4135ce17d677d1d33078",
+                    "notes":  "Android builds are now signed with a permanent key. If you installed an earlier Android version, uninstall it once and install this one."
                 },
     "android":  {
-                    "version":  "0.2.3",
-                    "build":  5,
+                    "version":  "0.2.4",
+                    "build":  6,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "e8c05590e71cce964a320787ca49ae96ea6b7ff066f6699156e3a58e223b91ba",
-                    "notes":  "Android TV version and its update check, a white ring on highlighted buttons, and fixes for the remote."
+                    "sha256":  "567dcd7d6439248e6ae8d224247edfb088f680014bf33ad283207e31d068d669",
+                    "notes":  "Android builds are now signed with a permanent key. If you installed an earlier Android version, uninstall it once and install this one."
                 }
 }
