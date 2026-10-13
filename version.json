@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.6",
-                    "build":  8,
+                    "version":  "0.2.7",
+                    "build":  9,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "2f259fdc36fa8e3d1d8c7478d6318c22c87ffb2de1df88edffae2da76f74081a",
-                    "notes":  "Boxes such as this one keep the highlight; nothing behind them can take it."
+                    "sha256":  "5ae16fc386d179c04242ca8ffc1c47b4da8e8012e1586f6116f4ee97df9c3871",
+                    "notes":  "Profiles without a Plex PIN are no longer asked for one."
                 },
     "android":  {
-                    "version":  "0.2.6",
-                    "build":  8,
+                    "version":  "0.2.7",
+                    "build":  9,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "2a75f52f613d224cd8dbf5c4c1502678c2cf04a00b82e87e10be7e30c417bfb7",
-                    "notes":  "Boxes such as this one keep the highlight; nothing behind them can take it."
+                    "sha256":  "7ce825d0486d9bd4e48b871a1df357d66125e65c7a5b787d7a8c39d173a4afc9",
+                    "notes":  "Profiles without a Plex PIN are no longer asked for one."
                 }
 }
