@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.16",
-                    "build":  18,
+                    "version":  "0.2.17",
+                    "build":  19,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "a2e3583fd0cd2916d253f9d19e57fa813316f6f551d77e4be781afb78f45738d",
-                    "notes":  "TV player: the controls right of Play can be reached again. An episode\u0027s page shows its season\u0027s episodes and the show\u0027s seasons."
+                    "sha256":  "b313188cb7bf0dd9e63c886b10f8f02512e59380088eb3e5feafad6fc984fe3b",
+                    "notes":  "An episode\u0027s page shows its season as a row of thumbnails, with the seasons below."
                 },
     "android":  {
-                    "version":  "0.2.16",
-                    "build":  18,
+                    "version":  "0.2.17",
+                    "build":  19,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "8d05cc425f10416a263138040b87114ba76a5fd3370c26175d1bb11522fb941a",
-                    "notes":  "TV player: the controls right of Play can be reached again. An episode\u0027s page shows its season\u0027s episodes and the show\u0027s seasons."
+                    "sha256":  "2bc9e32e8298b180b961e1d500c0e19965c5a66c647455862b4c41a1280ad4de",
+                    "notes":  "An episode\u0027s page shows its season as a row of thumbnails, with the seasons below."
                 }
 }
