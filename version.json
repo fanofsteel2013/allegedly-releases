@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.7",
-                    "build":  9,
+                    "version":  "0.2.8",
+                    "build":  10,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "5ae16fc386d179c04242ca8ffc1c47b4da8e8012e1586f6116f4ee97df9c3871",
-                    "notes":  "Profiles without a Plex PIN are no longer asked for one."
+                    "sha256":  "bc45dadc33bd45345cfeb820fed981ae1d41327453b05e39504fe33fcb31b11c",
+                    "notes":  "Home shows rows from every server you have pinned a library from. Opening a page starts on its first title. Arrow keys stop at the ends of rows. Highlight colour and theme are per profile. Larger sign-in screen on TVs."
                 },
     "android":  {
-                    "version":  "0.2.7",
-                    "build":  9,
+                    "version":  "0.2.8",
+                    "build":  10,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "7ce825d0486d9bd4e48b871a1df357d66125e65c7a5b787d7a8c39d173a4afc9",
-                    "notes":  "Profiles without a Plex PIN are no longer asked for one."
+                    "sha256":  "ce90e78caf428dc100fe628ce7439c1df3f6b77ec83fc3cdad88452590d19794",
+                    "notes":  "Home shows rows from every server you have pinned a library from. Opening a page starts on its first title. Arrow keys stop at the ends of rows. Highlight colour and theme are per profile. Larger sign-in screen on TVs."
                 }
 }
