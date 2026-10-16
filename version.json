@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.19",
-                    "build":  21,
+                    "version":  "0.2.20",
+                    "build":  22,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "3ccaf3847501db3b1927459a2e59439082606e15744dc61998ad5ad7a1a28d5f",
-                    "notes":  "The seasons row also shows for a show with only one season."
+                    "sha256":  "21bbf52f7ea9581cfc0fd4946992957c7fdd1e5c8faaaf3a6dcc34d6e8ddcb54",
+                    "notes":  "Shows whose seasons are hidden in Plex get the same episodes-and-seasons layout as every other show."
                 },
     "android":  {
-                    "version":  "0.2.19",
-                    "build":  21,
+                    "version":  "0.2.20",
+                    "build":  22,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "4237ec61f31efbb4b0b0a03577aab43a12cd2d1bae01320f5ff4ff3e745812d5",
-                    "notes":  "The seasons row also shows for a show with only one season."
+                    "sha256":  "8ee8398a049e93e85c5c30a5bfffe5081f7d0d12f483f0bd57b85ba3236bcf51",
+                    "notes":  "Shows whose seasons are hidden in Plex get the same episodes-and-seasons layout as every other show."
                 }
 }
