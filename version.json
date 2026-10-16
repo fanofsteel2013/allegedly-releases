@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.15",
-                    "build":  17,
+                    "version":  "0.2.16",
+                    "build":  18,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "36d3583738739fccc313f2b9f79d76696aa1a5b5897ae874101474c8f0fe37af",
-                    "notes":  "Customize Home marks Agregarr collections apart from Plex collections."
+                    "sha256":  "a2e3583fd0cd2916d253f9d19e57fa813316f6f551d77e4be781afb78f45738d",
+                    "notes":  "TV player: the controls right of Play can be reached again. An episode\u0027s page shows its season\u0027s episodes and the show\u0027s seasons."
                 },
     "android":  {
-                    "version":  "0.2.15",
-                    "build":  17,
+                    "version":  "0.2.16",
+                    "build":  18,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "44cda1c71101b25ae8776eebd0cc8a74363cc95cf05de70312d4d9fcb7c89930",
-                    "notes":  "Customize Home marks Agregarr collections apart from Plex collections."
+                    "sha256":  "8d05cc425f10416a263138040b87114ba76a5fd3370c26175d1bb11522fb941a",
+                    "notes":  "TV player: the controls right of Play can be reached again. An episode\u0027s page shows its season\u0027s episodes and the show\u0027s seasons."
                 }
 }
