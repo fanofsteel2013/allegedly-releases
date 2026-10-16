@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.20",
-                    "build":  22,
+                    "version":  "0.2.21",
+                    "build":  23,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "21bbf52f7ea9581cfc0fd4946992957c7fdd1e5c8faaaf3a6dcc34d6e8ddcb54",
-                    "notes":  "Shows whose seasons are hidden in Plex get the same episodes-and-seasons layout as every other show."
+                    "sha256":  "90292b8866a25dfb7886eb124f1d62b095f56c86a454d2507bac42293e17c169",
+                    "notes":  "Watched state is shared between your servers: a title watched on one shows as watched on the others that have it. Settings \u003e Servers."
                 },
     "android":  {
-                    "version":  "0.2.20",
-                    "build":  22,
+                    "version":  "0.2.21",
+                    "build":  23,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "8ee8398a049e93e85c5c30a5bfffe5081f7d0d12f483f0bd57b85ba3236bcf51",
-                    "notes":  "Shows whose seasons are hidden in Plex get the same episodes-and-seasons layout as every other show."
+                    "sha256":  "5c7ed0ce2d8f1b45305fd2de8057a9a2bd2bc99b4d2dafbeb9c7c60a79dbe8ba",
+                    "notes":  "Watched state is shared between your servers: a title watched on one shows as watched on the others that have it. Settings \u003e Servers."
                 }
 }
