@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.23",
-                    "build":  25,
+                    "version":  "0.2.24",
+                    "build":  26,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "d9c200cd4f5c8ff314635e48f3ca1cf48adbb7de0603d0e0b7741573429e76f9",
-                    "notes":  "Watched sync matches shows between servers set up differently, and Settings \u003e Servers shows what the last sync did."
+                    "sha256":  "49235c20acf3bfdcfddae97d6c180982195fee5c46adf4e63eb7c7be991c3d2f",
+                    "notes":  "Watched sync keeps going when a server cannot list part of a library, and Sync watched now reports exactly what happened."
                 },
     "android":  {
-                    "version":  "0.2.23",
-                    "build":  25,
+                    "version":  "0.2.24",
+                    "build":  26,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "89c4d59bfd1ba769212169bb78a1ece36483d184ae7693675909d36701d40992",
-                    "notes":  "Watched sync matches shows between servers set up differently, and Settings \u003e Servers shows what the last sync did."
+                    "sha256":  "0d863a8b0e1a44ffa6e9a96675a2f0cc0c9742ec189fdcfbcf876bf370719281",
+                    "notes":  "Watched sync keeps going when a server cannot list part of a library, and Sync watched now reports exactly what happened."
                 }
 }
