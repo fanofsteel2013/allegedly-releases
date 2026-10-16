@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.12",
-                    "build":  14,
+                    "version":  "0.2.13",
+                    "build":  15,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "7f170bae3369f1272c449599c7c5bef2c27edf4ac587a55f6eb799799c71e7bb",
-                    "notes":  "Preset highlight colors can be chosen with a remote. Spelling: Color."
+                    "sha256":  "8fe0c7aebe2aa3b232dcd18d7418985a49316bd85ae95b848e28d24fdce80685",
+                    "notes":  "Left from a page goes back to the side menu item you are browsing. On Home, Right from Allegedly or Up from the top row reaches Customize Home. New rows can come from any of your servers."
                 },
     "android":  {
-                    "version":  "0.2.12",
-                    "build":  14,
+                    "version":  "0.2.13",
+                    "build":  15,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "0678df3cb47f682aefe6ec13dba2521c54363f3cad814c8a91fd4a0c60df6794",
-                    "notes":  "Preset highlight colors can be chosen with a remote. Spelling: Color."
+                    "sha256":  "a83ca6b2bb2925e0c7eee7eec8a0a0bbf73df75f073e4a4394ebd259e94e886d",
+                    "notes":  "Left from a page goes back to the side menu item you are browsing. On Home, Right from Allegedly or Up from the top row reaches Customize Home. New rows can come from any of your servers."
                 }
 }
