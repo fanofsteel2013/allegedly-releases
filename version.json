@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.24",
-                    "build":  26,
+                    "version":  "0.2.25",
+                    "build":  27,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "49235c20acf3bfdcfddae97d6c180982195fee5c46adf4e63eb7c7be991c3d2f",
-                    "notes":  "Watched sync keeps going when a server cannot list part of a library, and Sync watched now reports exactly what happened."
+                    "sha256":  "c4d447704e11e81ed0a96cff824aad40c074f85f50c690a1e6f62ad6ad6a4c6e",
+                    "notes":  "Recently added season cards show watched episodes, and Home updates after a watched sync."
                 },
     "android":  {
-                    "version":  "0.2.24",
-                    "build":  26,
+                    "version":  "0.2.25",
+                    "build":  27,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "0d863a8b0e1a44ffa6e9a96675a2f0cc0c9742ec189fdcfbcf876bf370719281",
-                    "notes":  "Watched sync keeps going when a server cannot list part of a library, and Sync watched now reports exactly what happened."
+                    "sha256":  "9aca70014b65df017634cd0de9f2c24031803c2acf42d8c649e1e2a4f78157e1",
+                    "notes":  "Recently added season cards show watched episodes, and Home updates after a watched sync."
                 }
 }
