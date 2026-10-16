@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.10",
-                    "build":  12,
+                    "version":  "0.2.11",
+                    "build":  13,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "fa2fe7cfcd969fe9e68d271419a499240a5ec07c7e3ad2604cd07c21aea30025",
-                    "notes":  "Choosing something in the side menu keeps the highlight there; press Right to go to the first title."
+                    "sha256":  "6e555d746a83c5e2469da2fd087672f344aa8cdace5c013a42e6d87468db94fb",
+                    "notes":  "The sort menu in a library can be used with a remote or arrow keys again."
                 },
     "android":  {
-                    "version":  "0.2.10",
-                    "build":  12,
+                    "version":  "0.2.11",
+                    "build":  13,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "b8abd21c005b6b354c1f2f8ba6f1085535d2109f11b5448d1b2ed79cccc16c95",
-                    "notes":  "Choosing something in the side menu keeps the highlight there; press Right to go to the first title."
+                    "sha256":  "95029473b1adc4904f94710fa6de2a40cea55886e549936b45f4f317f6bfe71e",
+                    "notes":  "The sort menu in a library can be used with a remote or arrow keys again."
                 }
 }
