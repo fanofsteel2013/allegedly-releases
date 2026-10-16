@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.8",
-                    "build":  10,
+                    "version":  "0.2.9",
+                    "build":  11,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "bc45dadc33bd45345cfeb820fed981ae1d41327453b05e39504fe33fcb31b11c",
-                    "notes":  "Home shows rows from every server you have pinned a library from. Opening a page starts on its first title. Arrow keys stop at the ends of rows. Highlight colour and theme are per profile. Larger sign-in screen on TVs."
+                    "sha256":  "8b9230696a93485fee535bb2c44be36f4f68edae521068e803b45b8b7d526e06",
+                    "notes":  "Home rows such as Recently Added now combine titles from every server you have pinned a library from."
                 },
     "android":  {
-                    "version":  "0.2.8",
-                    "build":  10,
+                    "version":  "0.2.9",
+                    "build":  11,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "ce90e78caf428dc100fe628ce7439c1df3f6b77ec83fc3cdad88452590d19794",
-                    "notes":  "Home shows rows from every server you have pinned a library from. Opening a page starts on its first title. Arrow keys stop at the ends of rows. Highlight colour and theme are per profile. Larger sign-in screen on TVs."
+                    "sha256":  "4b29102c7b3856da2ca2ba6c979569cd5a0d2a2ead275d4b1614a769feb10a53",
+                    "notes":  "Home rows such as Recently Added now combine titles from every server you have pinned a library from."
                 }
 }
