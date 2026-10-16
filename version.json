@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.22",
-                    "build":  24,
+                    "version":  "0.2.23",
+                    "build":  25,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "3ca9842107c812512d9e71f33d9f19f0637517130e2e29c7cfe28314e520bf71",
-                    "notes":  "Watched sync now also carries unwatches made anywhere, including in Plex itself."
+                    "sha256":  "d9c200cd4f5c8ff314635e48f3ca1cf48adbb7de0603d0e0b7741573429e76f9",
+                    "notes":  "Watched sync matches shows between servers set up differently, and Settings \u003e Servers shows what the last sync did."
                 },
     "android":  {
-                    "version":  "0.2.22",
-                    "build":  24,
+                    "version":  "0.2.23",
+                    "build":  25,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "55ada175c873e02dc82ab48e54177d9eef23e59be2674b837af361f90fa2c8fa",
-                    "notes":  "Watched sync now also carries unwatches made anywhere, including in Plex itself."
+                    "sha256":  "89c4d59bfd1ba769212169bb78a1ece36483d184ae7693675909d36701d40992",
+                    "notes":  "Watched sync matches shows between servers set up differently, and Settings \u003e Servers shows what the last sync did."
                 }
 }
