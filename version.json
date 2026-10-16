@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.11",
-                    "build":  13,
+                    "version":  "0.2.12",
+                    "build":  14,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "6e555d746a83c5e2469da2fd087672f344aa8cdace5c013a42e6d87468db94fb",
-                    "notes":  "The sort menu in a library can be used with a remote or arrow keys again."
+                    "sha256":  "7f170bae3369f1272c449599c7c5bef2c27edf4ac587a55f6eb799799c71e7bb",
+                    "notes":  "Preset highlight colors can be chosen with a remote. Spelling: Color."
                 },
     "android":  {
-                    "version":  "0.2.11",
-                    "build":  13,
+                    "version":  "0.2.12",
+                    "build":  14,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "95029473b1adc4904f94710fa6de2a40cea55886e549936b45f4f317f6bfe71e",
-                    "notes":  "The sort menu in a library can be used with a remote or arrow keys again."
+                    "sha256":  "0678df3cb47f682aefe6ec13dba2521c54363f3cad814c8a91fd4a0c60df6794",
+                    "notes":  "Preset highlight colors can be chosen with a remote. Spelling: Color."
                 }
 }
