@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.9",
-                    "build":  11,
+                    "version":  "0.2.10",
+                    "build":  12,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "8b9230696a93485fee535bb2c44be36f4f68edae521068e803b45b8b7d526e06",
-                    "notes":  "Home rows such as Recently Added now combine titles from every server you have pinned a library from."
+                    "sha256":  "fa2fe7cfcd969fe9e68d271419a499240a5ec07c7e3ad2604cd07c21aea30025",
+                    "notes":  "Choosing something in the side menu keeps the highlight there; press Right to go to the first title."
                 },
     "android":  {
-                    "version":  "0.2.9",
-                    "build":  11,
+                    "version":  "0.2.10",
+                    "build":  12,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "4b29102c7b3856da2ca2ba6c979569cd5a0d2a2ead275d4b1614a769feb10a53",
-                    "notes":  "Home rows such as Recently Added now combine titles from every server you have pinned a library from."
+                    "sha256":  "b8abd21c005b6b354c1f2f8ba6f1085535d2109f11b5448d1b2ed79cccc16c95",
+                    "notes":  "Choosing something in the side menu keeps the highlight there; press Right to go to the first title."
                 }
 }
