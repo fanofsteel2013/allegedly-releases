@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.14",
-                    "build":  16,
+                    "version":  "0.2.15",
+                    "build":  17,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "07f364d593cce6912f73ee7cb5cb43b9e86395757819aa0a32d5d49fe208ec44",
-                    "notes":  "New episodes of a season share one card with a count. Rows end with See all. Any Home row can be removed. Up from a library\u0027s first row goes to Movies/Collections."
+                    "sha256":  "36d3583738739fccc313f2b9f79d76696aa1a5b5897ae874101474c8f0fe37af",
+                    "notes":  "Customize Home marks Agregarr collections apart from Plex collections."
                 },
     "android":  {
-                    "version":  "0.2.14",
-                    "build":  16,
+                    "version":  "0.2.15",
+                    "build":  17,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "3ce549052654fd3f380dce7a608b920daaa7f6e46a961c49b5b33667af176d00",
-                    "notes":  "New episodes of a season share one card with a count. Rows end with See all. Any Home row can be removed. Up from a library\u0027s first row goes to Movies/Collections."
+                    "sha256":  "44cda1c71101b25ae8776eebd0cc8a74363cc95cf05de70312d4d9fcb7c89930",
+                    "notes":  "Customize Home marks Agregarr collections apart from Plex collections."
                 }
 }
