@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.18",
-                    "build":  20,
+                    "version":  "0.2.19",
+                    "build":  21,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "fcae77f07193526c1a1978dd1942264dd1dd580f5c3177e6cf31a58aec59410a",
-                    "notes":  "Show, season and episode pages share one layout: the season\u0027s episodes in a row, seasons below. Choosing an episode plays it."
+                    "sha256":  "3ccaf3847501db3b1927459a2e59439082606e15744dc61998ad5ad7a1a28d5f",
+                    "notes":  "The seasons row also shows for a show with only one season."
                 },
     "android":  {
-                    "version":  "0.2.18",
-                    "build":  20,
+                    "version":  "0.2.19",
+                    "build":  21,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "128cb80cd34df030826affa77156a49573301d467a425b4b3aedef0dd0a80ee6",
-                    "notes":  "Show, season and episode pages share one layout: the season\u0027s episodes in a row, seasons below. Choosing an episode plays it."
+                    "sha256":  "4237ec61f31efbb4b0b0a03577aab43a12cd2d1bae01320f5ff4ff3e745812d5",
+                    "notes":  "The seasons row also shows for a show with only one season."
                 }
 }
