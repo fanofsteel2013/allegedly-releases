@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.27",
-                    "build":  29,
+                    "version":  "0.2.28",
+                    "build":  30,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "215b289d67a30b1c939da651ac1fd884445bcd38b28c37f1475600982f65b954",
-                    "notes":  "New, optional: AskFirst kids page. A parent sets a device up in Settings \u003e AskFirst; kids linked in AskFirst then find Ask First in the side menu."
+                    "sha256":  "0f576c7817cac3711a5200cded686bca2c0cd6ab4bad6dd9488d6b97b25b3fd7",
+                    "notes":  "AskFirst yes: a small corner card with the poster that leaves after nine seconds."
                 },
     "android":  {
-                    "version":  "0.2.27",
-                    "build":  29,
+                    "version":  "0.2.28",
+                    "build":  30,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "9e1f4dd8ffb9f598b4378e2c6ba8ba06079c81d5f5ada602633a0d4d04546098",
-                    "notes":  "New, optional: AskFirst kids page. A parent sets a device up in Settings \u003e AskFirst; kids linked in AskFirst then find Ask First in the side menu."
+                    "sha256":  "f3864a71bae49257d0fca7f3967a34e52567c3baf9e6cf898d6aefa028daae03",
+                    "notes":  "AskFirst yes: a small corner card with the poster that leaves after nine seconds."
                 }
 }
