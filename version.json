@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.26",
-                    "build":  28,
+                    "version":  "0.2.27",
+                    "build":  29,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "0aa37ebcaf1587419c95a55fea83bb68317336cf1a7e8d345940d3f1d1660b18",
-                    "notes":  "New, off by default: a device can open one profile automatically (Settings \u003e Profile lock)."
+                    "sha256":  "215b289d67a30b1c939da651ac1fd884445bcd38b28c37f1475600982f65b954",
+                    "notes":  "New, optional: AskFirst kids page. A parent sets a device up in Settings \u003e AskFirst; kids linked in AskFirst then find Ask First in the side menu."
                 },
     "android":  {
-                    "version":  "0.2.26",
-                    "build":  28,
+                    "version":  "0.2.27",
+                    "build":  29,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "29a160194cbcc3725e45989af2504413b05f67c2903a48b2adc385350291d9e7",
-                    "notes":  "New, off by default: a device can open one profile automatically (Settings \u003e Profile lock)."
+                    "sha256":  "9e1f4dd8ffb9f598b4378e2c6ba8ba06079c81d5f5ada602633a0d4d04546098",
+                    "notes":  "New, optional: AskFirst kids page. A parent sets a device up in Settings \u003e AskFirst; kids linked in AskFirst then find Ask First in the side menu."
                 }
 }
