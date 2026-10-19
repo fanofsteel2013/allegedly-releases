@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.34",
-                    "build":  36,
+                    "version":  "0.2.35",
+                    "build":  37,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "2bbec0376876453024ca0d463a4849b41c0c2c4d197416593df1d4cad40f757f",
-                    "notes":  "Ask First opens on Recommended: the newest titles made for the kid\u0027s age."
+                    "sha256":  "3b6f73c6e987fdf0f4b9f35e59ff8eb76d7596f88d218ddbeb4a49deea4a04f6",
+                    "notes":  "AskFirst parent page: parents linked in AskFirst answer kids\u0027 asks from the app with their PIN, and see a card when a kid asks."
                 },
     "android":  {
-                    "version":  "0.2.34",
-                    "build":  36,
+                    "version":  "0.2.35",
+                    "build":  37,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "35ce3b8ed6f0c35d5fae3b4cfbbcba28d4b0c0b1e2aba55da092b5d07a8e93e8",
-                    "notes":  "Ask First opens on Recommended: the newest titles made for the kid\u0027s age."
+                    "sha256":  "2bf104488a0feb6c478b041cccda8a12122f19eb1e417316707f901502d5405c",
+                    "notes":  "AskFirst parent page: parents linked in AskFirst answer kids\u0027 asks from the app with their PIN, and see a card when a kid asks."
                 }
 }
