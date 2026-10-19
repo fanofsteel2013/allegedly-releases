@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.33",
-                    "build":  35,
+                    "version":  "0.2.34",
+                    "build":  36,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "356bd840f83971005db9d6d533490b2afc6a3e3cbc9a2d80fde428c2bc6c63a7",
-                    "notes":  "A menu on every poster: right-click or the corner ... on PC, hold OK on the TV. Play, More info, Go to show, Mark as watched or unwatched, Remove from Continue Watching."
+                    "sha256":  "2bbec0376876453024ca0d463a4849b41c0c2c4d197416593df1d4cad40f757f",
+                    "notes":  "Ask First opens on Recommended: the newest titles made for the kid\u0027s age."
                 },
     "android":  {
-                    "version":  "0.2.33",
-                    "build":  35,
+                    "version":  "0.2.34",
+                    "build":  36,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "2f72a82d1c28266a93d1b6f7452d5cbfc58b85af206573fa36b1d8a9a6f25951",
-                    "notes":  "A menu on every poster: right-click or the corner ... on PC, hold OK on the TV. Play, More info, Go to show, Mark as watched or unwatched, Remove from Continue Watching."
+                    "sha256":  "35ce3b8ed6f0c35d5fae3b4cfbbcba28d4b0c0b1e2aba55da092b5d07a8e93e8",
+                    "notes":  "Ask First opens on Recommended: the newest titles made for the kid\u0027s age."
                 }
 }
