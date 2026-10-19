@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.32",
-                    "build":  34,
+                    "version":  "0.2.33",
+                    "build":  35,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "b51ea50f1f6a42fee0b41c01a4cb48d9f1dcc765e117f697e75f1d00d604b47e",
-                    "notes":  "Profiles sign in about 6 seconds faster. Side menu stops at its ends. Who is watching: first profile highlighted, Allegedly profiles can be moved and hidden, Back leaves edit mode."
+                    "sha256":  "356bd840f83971005db9d6d533490b2afc6a3e3cbc9a2d80fde428c2bc6c63a7",
+                    "notes":  "A menu on every poster: right-click or the corner ... on PC, hold OK on the TV. Play, More info, Go to show, Mark as watched or unwatched, Remove from Continue Watching."
                 },
     "android":  {
-                    "version":  "0.2.32",
-                    "build":  34,
+                    "version":  "0.2.33",
+                    "build":  35,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "001a83ffd9465ab4f6eaa3869598fd97453e87c6785738b11c1bc28ee81ab11c",
-                    "notes":  "Profiles sign in about 6 seconds faster. Side menu stops at its ends. Who is watching: first profile highlighted, Allegedly profiles can be moved and hidden, Back leaves edit mode."
+                    "sha256":  "2f72a82d1c28266a93d1b6f7452d5cbfc58b85af206573fa36b1d8a9a6f25951",
+                    "notes":  "A menu on every poster: right-click or the corner ... on PC, hold OK on the TV. Play, More info, Go to show, Mark as watched or unwatched, Remove from Continue Watching."
                 }
 }
