@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.37",
-                    "build":  39,
+                    "version":  "0.2.38",
+                    "build":  40,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "4ea9aeeed0c2ae9bf79e76e7986cf79ebf7e18314bd62d9e4a243b906ddd0547",
+                    "sha256":  "7970ca7fb661b7dbbb0645e8e4d133750bfa8fa3d48512b7d8a4098f8bfb8012",
                     "notes":  "AskFirst parent page: asks grouped by kid, choose several kids at once, PIN on a number pad, and recently answered with Take back."
                 },
     "android":  {
-                    "version":  "0.2.37",
-                    "build":  39,
+                    "version":  "0.2.38",
+                    "build":  40,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "54e4a7132196f9cd74660fb2206a23cb83f28b809e7c2c088a1eb8350ec61aff",
+                    "sha256":  "2e0c742db7f1750be1ed6b0309e83b0905df6f636e454046813c0c454684f20d",
                     "notes":  "AskFirst parent page: asks grouped by kid, choose several kids at once, PIN on a number pad, and recently answered with Take back."
                 }
 }
