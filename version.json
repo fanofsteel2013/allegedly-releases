@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.30",
-                    "build":  32,
+                    "version":  "0.2.31",
+                    "build":  33,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "1321812586a8df3b9e32e5248057b8db8cb82413ece973b04e2e8fbefb71bfcb",
-                    "notes":  "Profile switches finish in one go, with no second Who is watching and no color flicker."
+                    "sha256":  "521f126390994d97ef1b166fdedccf392804f34e16dae6dcb5e58d282e1331f8",
+                    "notes":  "Your direction code is offered again when switching from an Allegedly profile."
                 },
     "android":  {
-                    "version":  "0.2.30",
-                    "build":  32,
+                    "version":  "0.2.31",
+                    "build":  33,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "95b8483ed8b0232bc38ada8dfa4c1403228ea6deda2e762fb707d48183e5f40e",
-                    "notes":  "Profile switches finish in one go, with no second Who is watching and no color flicker."
+                    "sha256":  "51ac5738dc8086326370cea9d0d5055eea4337fdef84241dea2163b16ff0cd2a",
+                    "notes":  "Your direction code is offered again when switching from an Allegedly profile."
                 }
 }
