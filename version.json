@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.29",
-                    "build":  31,
+                    "version":  "0.2.30",
+                    "build":  32,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "0d8eda36db0e738e002d5cc3157aaa7551fc3ae2ed6aa31de8645c17fb7803f8",
-                    "notes":  "Who is watching always lists your own Home users, with Allegedly profiles beside them."
+                    "sha256":  "1321812586a8df3b9e32e5248057b8db8cb82413ece973b04e2e8fbefb71bfcb",
+                    "notes":  "Profile switches finish in one go, with no second Who is watching and no color flicker."
                 },
     "android":  {
-                    "version":  "0.2.29",
-                    "build":  31,
+                    "version":  "0.2.30",
+                    "build":  32,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "bf1b4afd36e0b580cd5bea0c7e6448b78da40a97bd992901646bda14ac6cdea9",
-                    "notes":  "Who is watching always lists your own Home users, with Allegedly profiles beside them."
+                    "sha256":  "95b8483ed8b0232bc38ada8dfa4c1403228ea6deda2e762fb707d48183e5f40e",
+                    "notes":  "Profile switches finish in one go, with no second Who is watching and no color flicker."
                 }
 }
