@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.46",
-                    "build":  48,
+                    "version":  "0.2.47",
+                    "build":  49,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "4f9f6d58633f9a4f01ab93ab4dbad67c2ab93ad447d2346c17bb2b336994c6fd",
-                    "notes":  "Search: press Down (or Search on the keyboard) to move to the results."
+                    "sha256":  "b5aa4c9ae13a4c8002494a10b19a4dc3c6b9832435645f7f52c3b8e3227ba39b",
+                    "notes":  "Request missing seasons right from a show\u0027s page, next to Play."
                 },
     "android":  {
-                    "version":  "0.2.46",
-                    "build":  48,
+                    "version":  "0.2.47",
+                    "build":  49,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "25a46545e3120f851ae28732375d3976392f8b2bcc56df94c00aa18521706fc2",
-                    "notes":  "Search: press Down (or Search on the keyboard) to move to the results."
+                    "sha256":  "f3d3e29aa8aa95478aeb1254467b921713d6acc6bf8f2c1c0cfa7b1c107603bc",
+                    "notes":  "Request missing seasons right from a show\u0027s page, next to Play."
                 }
 }
