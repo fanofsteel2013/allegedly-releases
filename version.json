@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.50",
-                    "build":  52,
+                    "version":  "0.2.51",
+                    "build":  53,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "8d4e517b35516160fd1c30dd62db2e91591ac2a7cae5ee358b626957e7070eb9",
-                    "notes":  "Requesting seasons now starts with only the next season ticked."
+                    "sha256":  "f59b8e55ec77076b14d203a275eab4510fd0b6c43389e18220cfdf687853b75a",
+                    "notes":  "AskFirst: answered asks can be allowed, taken away, or reopened for 48 hours."
                 },
     "android":  {
-                    "version":  "0.2.50",
-                    "build":  52,
+                    "version":  "0.2.51",
+                    "build":  53,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "2bc22920e8fe86fb6ebddb56b8da73e8a8ea8d2aacac51c88ff8de41e816fda4",
-                    "notes":  "Requesting seasons now starts with only the next season ticked."
+                    "sha256":  "b3c25063e61ecc8ed427c86bb85357a39f3ac9d755605077ac4b3ab628f14622",
+                    "notes":  "AskFirst: answered asks can be allowed, taken away, or reopened for 48 hours."
                 }
 }
