@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.40",
-                    "build":  42,
+                    "version":  "0.2.41",
+                    "build":  43,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "4c3e5a8398283aaa9000de512c67a20f9a2e43c64eb86a005407f7796e8164c2",
-                    "notes":  "Remote PIN page: fuller instructions, no stray first digit, and the AskFirst parent PIN can be entered with the arrows too."
+                    "sha256":  "a9df98100b71b7fc9aa9604d058f4e24abb30a9f1f61b0c126d948757637d3dd",
+                    "notes":  "Profile lock: choose either the direction sequence and number PIN, or the Plex PIN on the remote arrows."
                 },
     "android":  {
-                    "version":  "0.2.40",
-                    "build":  42,
+                    "version":  "0.2.41",
+                    "build":  43,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "982f78b3368b08dcdb47432ed67c930dd471f9cdff2e05cb92ed3838a8dc8d59",
-                    "notes":  "Remote PIN page: fuller instructions, no stray first digit, and the AskFirst parent PIN can be entered with the arrows too."
+                    "sha256":  "d9890813d9bcf53be12e2990909477d28bd9ebf1039c4586ec8121f4ca037f8f",
+                    "notes":  "Profile lock: choose either the direction sequence and number PIN, or the Plex PIN on the remote arrows."
                 }
 }
