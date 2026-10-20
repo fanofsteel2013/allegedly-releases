@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.53",
-                    "build":  55,
+                    "version":  "0.2.54",
+                    "build":  56,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "c6496ddd65d110183df9b0bc8a24f0cedc009fd3ede0de45c960c8dd1791c96b",
-                    "notes":  "AskFirst parent PINs are 4 digits, entered with the remote\u0027s arrows; your Plex PIN works when your Plex account has one."
+                    "sha256":  "c941c4a36e1ae2d9fec4dd853b7aec7b89f45d52eb8df61e2181d0f2a5412e80",
+                    "notes":  "Fixed: on some titles the remote could not reach the player buttons right of Play."
                 },
     "android":  {
-                    "version":  "0.2.53",
-                    "build":  55,
+                    "version":  "0.2.54",
+                    "build":  56,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "9df4a0c17c0cc2c9c137183700777bf34956968d0cd4628ac42de03751a15acc",
-                    "notes":  "AskFirst parent PINs are 4 digits, entered with the remote\u0027s arrows; your Plex PIN works when your Plex account has one."
+                    "sha256":  "9a9fc621b502edc44d519468f9c802aa2cbb96ad09bdb1da38fe04ac16089eb1",
+                    "notes":  "Fixed: on some titles the remote could not reach the player buttons right of Play."
                 }
 }
