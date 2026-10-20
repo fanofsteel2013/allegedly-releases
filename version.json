@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.39",
-                    "build":  41,
+                    "version":  "0.2.40",
+                    "build":  42,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "e990d6bb6c537fbbcf578ba2f5700d91f08866da291873ebde48de1316a9fd4a",
-                    "notes":  "New option in Settings \u003e Profile lock: enter your Plex PIN with the remote\u0027s arrows, Emby style. Opens as soon as the four numbers are right."
+                    "sha256":  "4c3e5a8398283aaa9000de512c67a20f9a2e43c64eb86a005407f7796e8164c2",
+                    "notes":  "Remote PIN page: fuller instructions, no stray first digit, and the AskFirst parent PIN can be entered with the arrows too."
                 },
     "android":  {
-                    "version":  "0.2.39",
-                    "build":  41,
+                    "version":  "0.2.40",
+                    "build":  42,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "d0add9175ddf5af8bd991d5ba7e7f06e84cbac025e779053f0dab80e74894abd",
-                    "notes":  "New option in Settings \u003e Profile lock: enter your Plex PIN with the remote\u0027s arrows, Emby style. Opens as soon as the four numbers are right."
+                    "sha256":  "982f78b3368b08dcdb47432ed67c930dd471f9cdff2e05cb92ed3838a8dc8d59",
+                    "notes":  "Remote PIN page: fuller instructions, no stray first digit, and the AskFirst parent PIN can be entered with the arrows too."
                 }
 }
