@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.52",
-                    "build":  54,
+                    "version":  "0.2.53",
+                    "build":  55,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "0f08752eeec71a4fb0e242000140a0275644a6d1ebb909c39e99c06d7a17cb9b",
-                    "notes":  "Subtitle timing in the player\u0027s subtitle menu. Bazarr is handled on the server now."
+                    "sha256":  "c6496ddd65d110183df9b0bc8a24f0cedc009fd3ede0de45c960c8dd1791c96b",
+                    "notes":  "AskFirst parent PINs are 4 digits, entered with the remote\u0027s arrows; your Plex PIN works when your Plex account has one."
                 },
     "android":  {
-                    "version":  "0.2.52",
-                    "build":  54,
+                    "version":  "0.2.53",
+                    "build":  55,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "0bea6e745f3da100535f49f393c64d6ba91151799bea1f3068b5310b21713fa7",
-                    "notes":  "Subtitle timing in the player\u0027s subtitle menu. Bazarr is handled on the server now."
+                    "sha256":  "9df4a0c17c0cc2c9c137183700777bf34956968d0cd4628ac42de03751a15acc",
+                    "notes":  "AskFirst parent PINs are 4 digits, entered with the remote\u0027s arrows; your Plex PIN works when your Plex account has one."
                 }
 }
