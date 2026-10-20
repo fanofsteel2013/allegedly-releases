@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.44",
-                    "build":  46,
+                    "version":  "0.2.45",
+                    "build":  47,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "629263e99ababf85f2e2ba757143fff1adb0c961b551cae303405ff5e4db5b30",
-                    "notes":  "Discover and request movies and series (Settings \u003e Integrations \u003e Overseerr). Bazarr is marked Coming soon."
+                    "sha256":  "222e595e68e58da83a3c38d4be89782b22585c0b3e87dbdf8a2c25339142542a",
+                    "notes":  "Discover has a Progress tab: waiting, approved or available, checked against your Plex libraries."
                 },
     "android":  {
-                    "version":  "0.2.44",
-                    "build":  46,
+                    "version":  "0.2.45",
+                    "build":  47,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "59947d0bf5cd901905476f17ea0938a96f675c10b911cfd7a4d8289fcceea223",
-                    "notes":  "Discover and request movies and series (Settings \u003e Integrations \u003e Overseerr). Bazarr is marked Coming soon."
+                    "sha256":  "c1a994fb3add3aa4e84ea934d43e43e65edfaced717102af015701c05b418773",
+                    "notes":  "Discover has a Progress tab: waiting, approved or available, checked against your Plex libraries."
                 }
 }
