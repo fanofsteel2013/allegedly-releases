@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.41",
-                    "build":  43,
+                    "version":  "0.2.42",
+                    "build":  44,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "a9df98100b71b7fc9aa9604d058f4e24abb30a9f1f61b0c126d948757637d3dd",
-                    "notes":  "Profile lock: choose either the direction sequence and number PIN, or the Plex PIN on the remote arrows."
+                    "sha256":  "0f6bbb7c7fe7e60cd6e674c32609379ec0b07de2382cb29c297f908be61f7384",
+                    "notes":  "Settings has a new Integrations page with AskFirst and Bazarr. Profile lock choices are now picked with OK."
                 },
     "android":  {
-                    "version":  "0.2.41",
-                    "build":  43,
+                    "version":  "0.2.42",
+                    "build":  44,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "d9890813d9bcf53be12e2990909477d28bd9ebf1039c4586ec8121f4ca037f8f",
-                    "notes":  "Profile lock: choose either the direction sequence and number PIN, or the Plex PIN on the remote arrows."
+                    "sha256":  "db5babc9ba8ac961e0148ffdd333d1e136aa2672f13ab20a1986221067ce5457",
+                    "notes":  "Settings has a new Integrations page with AskFirst and Bazarr. Profile lock choices are now picked with OK."
                 }
 }
