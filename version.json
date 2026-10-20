@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.43",
-                    "build":  45,
+                    "version":  "0.2.44",
+                    "build":  46,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "b9173d6306a53a057e5d6243363bf2d0ba08961d1a73461304d5a3ed1bf241b4",
-                    "notes":  "Find subtitles with Bazarr from the player\u0027s Subtitles menu. Subtitle files next to your media now show up in the player."
+                    "sha256":  "629263e99ababf85f2e2ba757143fff1adb0c961b551cae303405ff5e4db5b30",
+                    "notes":  "Discover and request movies and series (Settings \u003e Integrations \u003e Overseerr). Bazarr is marked Coming soon."
                 },
     "android":  {
-                    "version":  "0.2.43",
-                    "build":  45,
+                    "version":  "0.2.44",
+                    "build":  46,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "9b8775312e173cdaf3f78d179569897e634b6ba69ba58fa8332065ebe5f729c4",
-                    "notes":  "Find subtitles with Bazarr from the player\u0027s Subtitles menu. Subtitle files next to your media now show up in the player."
+                    "sha256":  "59947d0bf5cd901905476f17ea0938a96f675c10b911cfd7a4d8289fcceea223",
+                    "notes":  "Discover and request movies and series (Settings \u003e Integrations \u003e Overseerr). Bazarr is marked Coming soon."
                 }
 }
