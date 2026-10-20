@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.48",
-                    "build":  50,
+                    "version":  "0.2.49",
+                    "build":  51,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "6309772111016f8bc4b8de088d2bb3cc9e2cfde70aa928f0475181b2a29b9a02",
-                    "notes":  "The show page\u0027s request button now shows Request more seasons, Request pending or More seasons requested."
+                    "sha256":  "a395efc04c633cd586d903c8413b9cb60098700d5dd7b72b88e419298aa5e601",
+                    "notes":  "Request seasons now also shows on episode and season pages, from any row."
                 },
     "android":  {
-                    "version":  "0.2.48",
-                    "build":  50,
+                    "version":  "0.2.49",
+                    "build":  51,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "a1293666a17265e416594cde8619a036a1c8eecf109fc9a109610396739799a9",
-                    "notes":  "The show page\u0027s request button now shows Request more seasons, Request pending or More seasons requested."
+                    "sha256":  "5be6b386a2c8b3a7316390e7ebf6aee6cf1e8b63d65d277d67e1d3621e637d0d",
+                    "notes":  "Request seasons now also shows on episode and season pages, from any row."
                 }
 }
