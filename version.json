@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.47",
-                    "build":  49,
+                    "version":  "0.2.48",
+                    "build":  50,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "b5aa4c9ae13a4c8002494a10b19a4dc3c6b9832435645f7f52c3b8e3227ba39b",
-                    "notes":  "Request missing seasons right from a show\u0027s page, next to Play."
+                    "sha256":  "6309772111016f8bc4b8de088d2bb3cc9e2cfde70aa928f0475181b2a29b9a02",
+                    "notes":  "The show page\u0027s request button now shows Request more seasons, Request pending or More seasons requested."
                 },
     "android":  {
-                    "version":  "0.2.47",
-                    "build":  49,
+                    "version":  "0.2.48",
+                    "build":  50,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "f3d3e29aa8aa95478aeb1254467b921713d6acc6bf8f2c1c0cfa7b1c107603bc",
-                    "notes":  "Request missing seasons right from a show\u0027s page, next to Play."
+                    "sha256":  "a1293666a17265e416594cde8619a036a1c8eecf109fc9a109610396739799a9",
+                    "notes":  "The show page\u0027s request button now shows Request more seasons, Request pending or More seasons requested."
                 }
 }
