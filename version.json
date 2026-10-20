@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.42",
-                    "build":  44,
+                    "version":  "0.2.43",
+                    "build":  45,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "0f6bbb7c7fe7e60cd6e674c32609379ec0b07de2382cb29c297f908be61f7384",
-                    "notes":  "Settings has a new Integrations page with AskFirst and Bazarr. Profile lock choices are now picked with OK."
+                    "sha256":  "b9173d6306a53a057e5d6243363bf2d0ba08961d1a73461304d5a3ed1bf241b4",
+                    "notes":  "Find subtitles with Bazarr from the player\u0027s Subtitles menu. Subtitle files next to your media now show up in the player."
                 },
     "android":  {
-                    "version":  "0.2.42",
-                    "build":  44,
+                    "version":  "0.2.43",
+                    "build":  45,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "db5babc9ba8ac961e0148ffdd333d1e136aa2672f13ab20a1986221067ce5457",
-                    "notes":  "Settings has a new Integrations page with AskFirst and Bazarr. Profile lock choices are now picked with OK."
+                    "sha256":  "9b8775312e173cdaf3f78d179569897e634b6ba69ba58fa8332065ebe5f729c4",
+                    "notes":  "Find subtitles with Bazarr from the player\u0027s Subtitles menu. Subtitle files next to your media now show up in the player."
                 }
 }
