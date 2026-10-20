@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.51",
-                    "build":  53,
+                    "version":  "0.2.52",
+                    "build":  54,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "f59b8e55ec77076b14d203a275eab4510fd0b6c43389e18220cfdf687853b75a",
-                    "notes":  "AskFirst: answered asks can be allowed, taken away, or reopened for 48 hours."
+                    "sha256":  "0f08752eeec71a4fb0e242000140a0275644a6d1ebb909c39e99c06d7a17cb9b",
+                    "notes":  "Subtitle timing in the player\u0027s subtitle menu. Bazarr is handled on the server now."
                 },
     "android":  {
-                    "version":  "0.2.51",
-                    "build":  53,
+                    "version":  "0.2.52",
+                    "build":  54,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "b3c25063e61ecc8ed427c86bb85357a39f3ac9d755605077ac4b3ab628f14622",
-                    "notes":  "AskFirst: answered asks can be allowed, taken away, or reopened for 48 hours."
+                    "sha256":  "0bea6e745f3da100535f49f393c64d6ba91151799bea1f3068b5310b21713fa7",
+                    "notes":  "Subtitle timing in the player\u0027s subtitle menu. Bazarr is handled on the server now."
                 }
 }
