@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.54",
-                    "build":  56,
+                    "version":  "0.2.58",
+                    "build":  60,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "c941c4a36e1ae2d9fec4dd853b7aec7b89f45d52eb8df61e2181d0f2a5412e80",
-                    "notes":  "Fixed: on some titles the remote could not reach the player buttons right of Play."
+                    "sha256":  "909667b03222e99c48a3aac423108d4c6b0f9b62ca56f63639bd1e706d491aaf",
+                    "notes":  "New app icon. Remote navigation fixes: text boxes open with OK, Up/Down stop at the end of a page, Back goes to the menu then offers to exit, and the menu remembers where you were."
                 },
     "android":  {
-                    "version":  "0.2.54",
-                    "build":  56,
+                    "version":  "0.2.58",
+                    "build":  60,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "9a9fc621b502edc44d519468f9c802aa2cbb96ad09bdb1da38fe04ac16089eb1",
-                    "notes":  "Fixed: on some titles the remote could not reach the player buttons right of Play."
+                    "sha256":  "53f4ad366b93b245eddb1179a3e08602b7a63f1010ab591f96452cc342a16e1f",
+                    "notes":  "New app icon. Remote navigation fixes: text boxes open with OK, Up/Down stop at the end of a page, Back goes to the menu then offers to exit, and the menu remembers where you were."
                 }
 }
