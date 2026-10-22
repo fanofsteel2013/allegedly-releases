@@ -1,0 +1,6 @@
+title: Allegedly
+exclude:
+  - "*.apk"
+  - "*.exe"
+  - "*.json"
+  - THIRD_PARTY_NOTICES.md
