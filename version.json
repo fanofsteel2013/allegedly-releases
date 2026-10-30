@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.81",
-                    "build":  86,
+                    "version":  "0.2.83",
+                    "build":  88,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "b0e9d6fd8833d27d5a8725a2b1d5b8d879a7ea410e2f524cb5bbe5cdacd60456",
-                    "notes":  "Offline downloads, the WolfPlex home layout, Continue Watching updates when you stop watching, and many player fixes."
+                    "sha256":  "e34d1934fabcea9b54357f41f0045a4a5b1bc9c58b2bee09d9a1e7066929db2f",
+                    "notes":  "Google Drive settings sync (test), offline downloads, the WolfPlex home layout, and player fixes."
                 },
     "android":  {
-                    "version":  "0.2.81",
-                    "build":  86,
+                    "version":  "0.2.83",
+                    "build":  88,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "e54bd233080599c9d06ae2afa9cfcdc5170f0b194e3b7d74b48bf2c033fd4ce5",
-                    "notes":  "Offline downloads, the WolfPlex home layout, Continue Watching updates when you stop watching, and many player fixes."
+                    "sha256":  "6c093cb5effc7dc3906ca201a19f47a87b86dfa8af8e783eda6ff1ade52773c8",
+                    "notes":  "Google Drive settings sync (test), offline downloads, the WolfPlex home layout, and player fixes."
                 }
 }
