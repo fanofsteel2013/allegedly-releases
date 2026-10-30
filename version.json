@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.58",
-                    "build":  60,
+                    "version":  "0.2.81",
+                    "build":  86,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "909667b03222e99c48a3aac423108d4c6b0f9b62ca56f63639bd1e706d491aaf",
-                    "notes":  "New app icon. Remote navigation fixes: text boxes open with OK, Up/Down stop at the end of a page, Back goes to the menu then offers to exit, and the menu remembers where you were."
+                    "sha256":  "b0e9d6fd8833d27d5a8725a2b1d5b8d879a7ea410e2f524cb5bbe5cdacd60456",
+                    "notes":  "Offline downloads, the WolfPlex home layout, Continue Watching updates when you stop watching, and many player fixes."
                 },
     "android":  {
-                    "version":  "0.2.58",
-                    "build":  60,
+                    "version":  "0.2.81",
+                    "build":  86,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "53f4ad366b93b245eddb1179a3e08602b7a63f1010ab591f96452cc342a16e1f",
-                    "notes":  "New app icon. Remote navigation fixes: text boxes open with OK, Up/Down stop at the end of a page, Back goes to the menu then offers to exit, and the menu remembers where you were."
+                    "sha256":  "e54bd233080599c9d06ae2afa9cfcdc5170f0b194e3b7d74b48bf2c033fd4ce5",
+                    "notes":  "Offline downloads, the WolfPlex home layout, Continue Watching updates when you stop watching, and many player fixes."
                 }
 }
