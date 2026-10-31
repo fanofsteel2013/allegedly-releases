@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.87",
-                    "build":  92,
+                    "version":  "0.2.89",
+                    "build":  94,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "d4a13eef0d1749d140a5743f0079ff74f1ae2869b37875721f80f04289eafaec",
-                    "notes":  "Downloads settings, Google sign-in fixes, episode names, true full screen from a maximized window, and more."
+                    "sha256":  "ec2d91c2bd7b0a169c5d6b26e135f2c55613399ebf4c06c3f7a468bc794fb3e4",
+                    "notes":  "App icon choices on Windows, choose a download folder, View Downloads, and a faster update check."
                 },
     "android":  {
-                    "version":  "0.2.87",
-                    "build":  92,
+                    "version":  "0.2.89",
+                    "build":  94,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "910672b655dee58b0c432d4f351311c43374b594fa84787700dfbd84bea9dbc3",
-                    "notes":  "Downloads settings, Google sign-in fixes, episode names, true full screen from a maximized window, and more."
+                    "sha256":  "5d1b36d1f5b79868049928f8910f0490903806e1712d7f3ee96fe4b3dc9b4ccf",
+                    "notes":  "App icon choices on Windows, choose a download folder, View Downloads, and a faster update check."
                 }
 }
