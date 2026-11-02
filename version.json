@@ -1,16 +1,16 @@
 {
-    "windows": {
-        "version": "0.2.92",
-        "build": 97,
-        "url": "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-        "sha256": "94db28a7a6a8ef759527993b147e4314cc7cb3cb377c313685aa8c4858b87ef8",
-        "notes": "• New optional Approved for You row on kids' Home for AskFirst families\r\n• Hold left or right to scrub with rising speed; tap to skip 10 seconds\r\n• Preview pictures while seeking, on servers that have them\r\n• Pick an avatar for each profile\r\n• A profile's PIN is now needed to remove it or to change the lock\r\n• Fixed black screen with sound when the next episode starts\r\n• Coming back after being away asks who is watching, with PINs"
-    },
-    "android": {
-        "version": "0.2.92",
-        "build": 97,
-        "url": "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-        "sha256": "7742cc87bbd7b231857cf53530924736ffea0f6b21c6e2ae44f87e5543bf7ff2",
-        "notes": "• New optional Approved for You row on kids' Home for AskFirst families\r\n• Hold left or right to scrub with rising speed; tap to skip 10 seconds\r\n• Preview pictures while seeking, on servers that have them\r\n• Pick an avatar for each profile\r\n• A profile's PIN is now needed to remove it or to change the lock\r\n• Fixed black screen with sound when the next episode starts\r\n• Coming back after being away asks who is watching, with PINs"
-    }
+    "windows":  {
+                    "version":  "0.2.93",
+                    "build":  98,
+                    "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
+                    "sha256":  "72991112410351ea5eb792165c2780a257c46022b868644da66722faef1605cc",
+                    "notes":  "• Approved for You now works with AskFirst servers that have not been updated yet"
+                },
+    "android":  {
+                    "version":  "0.2.93",
+                    "build":  98,
+                    "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
+                    "sha256":  "7ab8384046b0eb7b537fbc2863ea0dc3d9b123771feacaf193e7723907137913",
+                    "notes":  "• Approved for You now works with AskFirst servers that have not been updated yet"
+                }
 }
