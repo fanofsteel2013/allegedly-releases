@@ -1,16 +1,16 @@
 {
-    "windows":  {
-                    "version":  "0.2.89",
-                    "build":  94,
-                    "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "ec2d91c2bd7b0a169c5d6b26e135f2c55613399ebf4c06c3f7a468bc794fb3e4",
-                    "notes":  "App icon choices on Windows, choose a download folder, View Downloads, and a faster update check."
-                },
-    "android":  {
-                    "version":  "0.2.89",
-                    "build":  94,
-                    "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "5d1b36d1f5b79868049928f8910f0490903806e1712d7f3ee96fe4b3dc9b4ccf",
-                    "notes":  "App icon choices on Windows, choose a download folder, View Downloads, and a faster update check."
-                }
+    "windows": {
+        "version": "0.2.92",
+        "build": 97,
+        "url": "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
+        "sha256": "94db28a7a6a8ef759527993b147e4314cc7cb3cb377c313685aa8c4858b87ef8",
+        "notes": "• New optional Approved for You row on kids' Home for AskFirst families\r\n• Hold left or right to scrub with rising speed; tap to skip 10 seconds\r\n• Preview pictures while seeking, on servers that have them\r\n• Pick an avatar for each profile\r\n• A profile's PIN is now needed to remove it or to change the lock\r\n• Fixed black screen with sound when the next episode starts\r\n• Coming back after being away asks who is watching, with PINs"
+    },
+    "android": {
+        "version": "0.2.92",
+        "build": 97,
+        "url": "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
+        "sha256": "7742cc87bbd7b231857cf53530924736ffea0f6b21c6e2ae44f87e5543bf7ff2",
+        "notes": "• New optional Approved for You row on kids' Home for AskFirst families\r\n• Hold left or right to scrub with rising speed; tap to skip 10 seconds\r\n• Preview pictures while seeking, on servers that have them\r\n• Pick an avatar for each profile\r\n• A profile's PIN is now needed to remove it or to change the lock\r\n• Fixed black screen with sound when the next episode starts\r\n• Coming back after being away asks who is watching, with PINs"
+    }
 }

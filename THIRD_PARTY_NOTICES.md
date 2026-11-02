@@ -54,3 +54,9 @@ Licences above are as declared by each package; transitive dependencies in
 - No GPL-licensed code. Plezy (GPL-3.0) must never be copied; see `CLAUDE.md`.
 - "Plex" is a trademark of Plex, Inc. Allegedly is not affiliated with or
   endorsed by Plex, Inc.
+
+## Fluent Emoji
+
+Avatar pictures in `app/assets/avatars/` are from Microsoft's Fluent Emoji
+(https://github.com/microsoft/fluentui-emoji), MIT License, Copyright (c)
+Microsoft Corporation. The full license is in `app/assets/avatars/LICENSE`.
