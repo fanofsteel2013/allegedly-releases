@@ -1,16 +1,16 @@
 {
     "windows":  {
-                    "version":  "0.2.99",
-                    "build":  104,
+                    "version":  "0.3.0",
+                    "build":  105,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly-Setup.exe",
-                    "sha256":  "c778eea65c2eb115082f45b6218e0a56e57cb68db1dbbee922831ac794188514",
-                    "notes":  "• TV: matches the screen to each video\u0027s frame rate for smooth motion\r\n• A video that won\u0027t start looks for your server again instead of spinning\r\n• TV: Compatible and Software decoding show the picture again\r\n• Direct decoding keeps the picture\u0027s shape\r\n• Episode rows: one highlight, starting on the right episode\r\n• AskFirst: says when a movie\u0027s library isn\u0027t shared with your Plex account"
+                    "sha256":  "bcc66a544eb104f64f68778aa5c483b74c4434c0942b09a21e654a1f0e0eae53",
+                    "notes":  "• Google Drive sync now also keeps your AskFirst and Abridged setup\r\n• Settings lists every integration under Integrations"
                 },
     "android":  {
-                    "version":  "0.2.99",
-                    "build":  104,
+                    "version":  "0.3.0",
+                    "build":  105,
                     "url":  "https://raw.githubusercontent.com/fanofsteel2013/allegedly-releases/main/Allegedly.apk",
-                    "sha256":  "95ab3b6eafbc51187c5307d819e737845f2d693b01d2bfce1f38de5ad1ca05c2",
-                    "notes":  "• TV: matches the screen to each video\u0027s frame rate for smooth motion\r\n• A video that won\u0027t start looks for your server again instead of spinning\r\n• TV: Compatible and Software decoding show the picture again\r\n• Direct decoding keeps the picture\u0027s shape\r\n• Episode rows: one highlight, starting on the right episode\r\n• AskFirst: says when a movie\u0027s library isn\u0027t shared with your Plex account"
+                    "sha256":  "1d78777db2c21813fc338d47a96dfcbbcddef2a901b57e3beac83efe36b85e5f",
+                    "notes":  "• Google Drive sync now also keeps your AskFirst and Abridged setup\r\n• Settings lists every integration under Integrations"
                 }
 }
